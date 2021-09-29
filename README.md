@@ -11,6 +11,7 @@ Order discord bot server : https://billing.futurehosting.org/index.php?rp=/store
 
 ## ** Invite Public Version **
 [Invite Now](https://discord.com/oauth2/authorize?client_id=856953042029379604&scope=bot&permissions=8)
+[![Run on Repl.it](https://repl.it/badge/github/shazhir/advance-disco-bot12)](https://repl.it/github/shazhir/advance-disco-bot12)
 
 
 ## Credits
